@@ -1,0 +1,56 @@
+# CircuitPython specific
+*.pyc
+__pycache__/
+*.mpy
+.env
+.env.*
+!.env.example
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Build / distribution
+dist/
+build/
+*.egg-info/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Local development
+*.local
+local_settings.py
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# CircuitPython specific directories
+/lib/
+/code.py.bak
+/boot_out.txt
+/settings.toml
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+
+# Documentation
+docs/_build/
+site/
+
+# Temporary files
+*.tmp
+*.temp 
