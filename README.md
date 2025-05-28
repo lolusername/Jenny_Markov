@@ -282,6 +282,9 @@ The installation can be customized by:
 
 Created as an interactive art project exploring the intersection of technology and philosophy. The project uses the PyPortal Titano's capabilities to create an engaging, ever-evolving display that responds to user interaction while maintaining a unique aesthetic quality.
 
+### Acknowledgments
+This project was inspired by the work of [@kuiperobjects](https://github.com/kuiperobjects), who introduced the concept of using Markov chains for generative text art. Their innovative approach to text generation and analysis has been a significant influence on this project's development.
+
 ## License
 
 This project is open source and available for modification and personal use. 
