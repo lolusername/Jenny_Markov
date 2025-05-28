@@ -2,6 +2,13 @@
 
 A generative art installation that combines Markov chain text generation with interactive CRT-style visual effects, running on an Adafruit PyPortal Titano. This project creates an engaging, ever-evolving display of philosophical statements that respond to user interaction through touch and visual effects.
 
+## About the Name
+"Jenny Markov" is a playful fusion of two key influences:
+- **Jenny Holzer**: The project uses her iconic "Truisms" series as its source material, transforming her powerful, declarative statements into new philosophical propositions
+- **Markov**: References the Markov chain algorithm that generates new statements while maintaining the style and impact of Holzer's original work
+
+This combination creates a digital reimagining of Holzer's work, where her truisms become living, evolving statements that maintain their philosophical weight while exploring new combinations of ideas.
+
 ## Technical Overview
 
 ### Hardware Requirements
@@ -116,8 +123,9 @@ This installation explores the intersection of:
 - Interactive media
 - Retro computing aesthetics
 - Philosophical inquiry
+- Digital reinterpretation of conceptual art
 
-The piece creates a dialogue between human interaction and algorithmic generation, where each touch transforms both the visual and textual elements of the display.
+The piece creates a dialogue between human interaction and algorithmic generation, where each touch transforms both the visual and textual elements of the display. By using Jenny Holzer's truisms as source material, the installation extends her exploration of power, truth, and language into the digital age, creating an endless stream of new philosophical statements that maintain the impact of her original work while exploring new combinations of ideas.
 
 ## Technical Implementation Details
 
@@ -284,6 +292,8 @@ Created as an interactive art project exploring the intersection of technology a
 
 ### Acknowledgments
 This project was inspired by the work of [@kuiperobjects](https://github.com/kuiperobjects), who introduced the concept of using Markov chains for generative text art. Their innovative approach to text generation and analysis has been a significant influence on this project's development.
+
+The project is a digital reimagining of Jenny Holzer's "Truisms" series, using her powerful philosophical statements as source material for the Markov chain generation. Her work exploring the relationship between language, power, and truth continues to influence contemporary digital art and interactive installations.
 
 ## License
 
